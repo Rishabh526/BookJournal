@@ -1,0 +1,7 @@
+backend/venv/
+.env
+backend/.env
+frontend/.env
+frontend/.env.local
+.DS_Store
+.vscode/
